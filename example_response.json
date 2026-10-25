@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "word": "he",
+      "surface": "He",
+      "unit_id": 1,
+      "phonetic": "",
+      "meaning": "他",
+      "pos": "pron.",
+      "category": "technical_word",
+      "reason": "仅用于测试基础词过滤，这条故意放入错误候选。"
+    },
+    {
+      "word": "soil respiration",
+      "surface": "soil respiration",
+      "unit_id": 1,
+      "phonetic": "",
+      "meaning": "土壤呼吸",
+      "pos": "n. phr.",
+      "category": "technical_phrase",
+      "reason": "土壤向大气释放二氧化碳的生态学过程。"
+    },
+    {
+      "word": "carbon sequestration",
+      "surface": "carbon sequestration",
+      "unit_id": 1,
+      "phonetic": "",
+      "meaning": "碳固存",
+      "pos": "n. phr.",
+      "category": "technical_phrase",
+      "reason": "捕获并储存碳的专业概念。"
+    },
+    {
+      "word": "mitigate",
+      "surface": "mitigate",
+      "unit_id": 2,
+      "phonetic": "/ˈmɪtɪɡeɪt/",
+      "meaning": "减轻；缓解",
+      "pos": "v.",
+      "category": "vocabulary",
+      "reason": "命中提供的高阶候选词。"
+    }
+  ],
+  "translations": {
+    "1": "他研究了土壤呼吸和碳固存。",
+    "2": "政策减轻了气候影响。"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "repository": "https://github.com/KyleBing/english-vocabulary",
+  "branch": "master",
+  "retrieved_date": "2026-10-25",
+  "license": "BSD-3-Clause",
+  "files": [
+    {
+      "local": "junior.txt",
+      "upstream": "1 初中-乱序.txt",
+      "sha256": "97a0c7aa25dc2cc93fac34a533715c30b7fe4b558d8c2c69c2b366e6cd7bbd16"
+    },
+    {
+      "local": "senior.txt",
+      "upstream": "2 高中-乱序.txt",
+      "sha256": "7b2905414a9dba3eb829feddc749e94b16ba67cc38426dead21117d6cc30d4ed"
+    },
+    {
+      "local": "cet4.txt",
+      "upstream": "3 四级-乱序.txt",
+      "sha256": "b6ef93b392837bfad92467ed6a8b3f22da6caf07fcfe8858c4f9eccb72069835"
+    },
+    {
+      "local": "cet6.txt",
+      "upstream": "4 六级-乱序.txt",
+      "sha256": "4a938c26f5732194330c5453a7fe28d65cf3fd7009fcdfb5bea4517b8ce48ddb"
+    },
+    {
+      "local": "toefl.txt",
+      "upstream": "6 托福-乱序.txt",
+      "sha256": "f7028faff8298e1f75421800b8370014f58fa1a76f0724aa5590b220b36bb516"
+    },
+    {
+      "local": "sat.txt",
+      "upstream": "7 SAT-乱序.txt",
+      "sha256": "2e373bf3edbe6544c35b62c9720cb946d9dc3140befa709672feb7cc2cc1b641"
+    },
+    {
+      "local": "LICENSE.txt",
+      "upstream": "LICENSE",
+      "sha256": "5746ff57c9bb587018a73c030e57ba8d116c0b9843c0617c88dde9c21757b2d2"
+    }
+  ]
+}
